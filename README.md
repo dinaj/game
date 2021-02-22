@@ -1,6 +1,6 @@
 # game
 unity game
 
-## Project __Notes__
+## Project _Notes_
 * c#
 
